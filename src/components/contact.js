@@ -35,7 +35,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                   <i class="fa fa-linkedin" aria-hidden="true"/>
-                    <a className='mail' target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/mouad-a-b66b1aa5/'>Mouad Anouch</a>
+                    <a className='mail' target="_blank" rel="noopener noreferrer" href='https://www.linkedin.com/in/mouad-anouch-54212620b'>Mouad Anouch</a>
                   </ListItemContent>
                 </ListItem>
 
